@@ -85,7 +85,7 @@
 	<main>
 		<section>
 			<h2>About me</h2>
-			<p>Hi, my name is [Your Name]. I'm a [Your Occupation] and I love [Your Hobbies or Interests].</p>
+			<p>Hi, my name is Christian Bougas. I'm a student at cornell University in the Nolan School of Hotel Adinistration and I love the combination of Foodservice and Technology.</p>
 		</section>
 		<section>
 			<h2>My work experience</h2>
