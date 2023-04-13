@@ -75,7 +75,7 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome to my colorful website</h1>
+		<h1>Welcome to Christian Bougas's Website</h1>
 	</header>
 	<nav>
 		<a href="#">Home</a>
@@ -90,13 +90,13 @@
 		<section>
 			<h2>My work experience</h2>
 			<ul>
-				<li>[Your Job Title] at [Company Name], [Employment Dates]</li>
-				<li>[Your Job Title] at [Company Name], [Employment Dates]</li>
+				<li>Assistant manager at Harrys Cafer, January 2023- May 2023 </li>
+				<li>Front Office internship at Atheneum Intercontinetnal IHG Group, Summer 2022 </li>
 			</ul>
 		</section>
 	</main>
 	<footer>
-		<p>Copyright &copy; 2023 [Your Name]</p>
+		<p>Copyright &copy; 2023 Christian Bougas</p>
 	</footer>
 </body>
 </html>
