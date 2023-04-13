@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Colorful Website</title>
+	<title>Christian Bougas's Website</title>
 	<style>
 		body {
 			background-color: #f2f2f2;
@@ -19,7 +19,7 @@
 			text-transform: uppercase;
 		}
 		nav {
-			background-color: #333333;
+			background-color: #333343;
 			color: #ffffff;
 			padding: 10px;
 			text-align: center;
