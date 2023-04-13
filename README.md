@@ -4,13 +4,13 @@
 	<title>Christian Bougas's Website</title>
 	<style>
 		body {
-			background-color: #f2f2f2;
+			background-color: #f2f3f2;
 			color: #333333;
 			font-family: Arial, sans-serif;
 		}
 		header {
 			background-color: #4CAF50;
-			color: #ffffff;
+			color: #fffgff;
 			padding: 20px;
 			text-align: center;
 			font-size: 32px;
