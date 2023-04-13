@@ -1,102 +1,86 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Stylish Website</title>
+	<title>My Colorful Website</title>
 	<style>
 		body {
+			background-color: #f2f2f2;
+			color: #333333;
 			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-			background-color: #f7f7f7;
 		}
 		header {
-			background-color: #333;
-			color: #fff;
+			background-color: #4CAF50;
+			color: #ffffff;
 			padding: 20px;
-		}
-		h1 {
-			margin: 0;
-			font-size: 40px;
-			text-transform: uppercase;
-			letter-spacing: 2px;
 			text-align: center;
+			font-size: 32px;
+			font-weight: bold;
+			letter-spacing: 2px;
+			text-transform: uppercase;
 		}
-		nav ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
-			display: flex;
-			justify-content: space-between;
-			background-color: #444;
+		nav {
+			background-color: #333333;
+			color: #ffffff;
 			padding: 10px;
-			border-bottom: 2px solid #333;
-			box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
-			position: sticky;
-			top: 0;
-			z-index: 1;
-		}
-		nav li {
-			margin: 0;
+			text-align: center;
+			font-size: 20px;
+			font-weight: bold;
+			letter-spacing: 1px;
+			text-transform: uppercase;
 		}
 		nav a {
-			display: block;
-			padding: 10px;
-			color: #fff;
+			color: #ffffff;
 			text-decoration: none;
-			transition: background-color 0.3s ease;
+			padding: 10px;
+			margin: 5px;
 		}
 		nav a:hover {
-			background-color: #666;
+			background-color: #ffffff;
+			color: #333333;
+			border-radius: 5px;
 		}
 		main {
-			margin: 20px;
 			padding: 20px;
-			background-color: #fff;
-			box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
-		}
-		section {
-			margin-bottom: 30px;
 		}
 		h2 {
+			color: #4CAF50;
 			font-size: 24px;
+			font-weight: bold;
 			margin-bottom: 10px;
-			color: #333;
-			text-transform: uppercase;
-			letter-spacing: 2px;
 		}
 		p {
-			line-height: 1.5;
 			font-size: 16px;
-			color: #666;
+			line-height: 1.5;
+			margin-bottom: 20px;
 		}
 		ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
+			font-size: 16px;
+			line-height: 1.5;
+			margin-bottom: 20px;
 		}
 		li {
-			line-height: 1.5;
-			font-size: 16px;
-			color: #666;
+			margin-bottom: 10px;
 		}
 		footer {
-			background-color: #333;
-			color: #fff;
-			padding: 20px;
+			background-color: #333333;
+			color: #ffffff;
+			padding: 10px;
 			text-align: center;
+			font-size: 14px;
+			font-style: italic;
+			letter-spacing: 1px;
+			text-transform: uppercase;
 		}
 	</style>
 </head>
 <body>
 	<header>
-		<h1>Welcome to my stylish website</h1>
+		<h1>Welcome to my colorful website</h1>
 	</header>
 	<nav>
-		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">About</a></li>
-			<li><a href="#">Contact</a></li>
-		</ul>
+		<a href="#">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
 	</nav>
 	<main>
 		<section>
@@ -108,3 +92,11 @@
 			<ul>
 				<li>[Your Job Title] at [Company Name], [Employment Dates]</li>
 				<li>[Your Job Title] at [Company Name], [Employment Dates]</li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>Copyright &copy; 2023 [Your Name]</p>
+	</footer>
+</body>
+</html>
