@@ -90,7 +90,7 @@
 		<section>
 			<h2>My work experience</h2>
 			<ul>
-				<li>Assistant manager at Harrys Cafer, January 2023- May 2023 </li>
+				<li>Assistant manager at Harrys Cafe, January 2023- May 2023 </li>
 				<li>Front Office internship at Atheneum Intercontinetnal IHG Group, Summer 2022 </li>
 			</ul>
 		</section>
